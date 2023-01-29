@@ -7,3 +7,11 @@
 
 - /list - GET
    1) params: (page, limit, id)
+
+Структура .env
+PORT=5000
+DB_NAME = bdname
+DB_USER = postgres
+DB_PASSWORD = *********
+DB_HOST = localhost
+DN_PORT = 5432
