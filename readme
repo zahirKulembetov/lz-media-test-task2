@@ -1,0 +1,9 @@
+#Запуск сервера#
+1) npm i
+2) npm run dev
+
+- /peson - POST
+   1) body: (name, surname)
+
+- /list - GET
+   1) params: (page, limit, id)
